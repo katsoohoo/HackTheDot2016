@@ -8,3 +8,7 @@ Date: June 18, 2016
 Time spent: 2 hours
 
 ### [Live Preview](https://katsoohoo.github.io/HackTheDot2016/)
+
+## Screenshots
+<img src="screenshots/screenshot1.png" width="300" />
+<img src="screenshots/screenshot2.png" width="300" />
