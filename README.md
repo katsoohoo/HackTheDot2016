@@ -6,3 +6,5 @@ Event: Learn to Code: Hack the Dot SF
 Date: June 18, 2016
 
 Time spent: 2 hours
+
+### [Live Preview](https://katsoohoo.github.io/HackTheDot2016/)
